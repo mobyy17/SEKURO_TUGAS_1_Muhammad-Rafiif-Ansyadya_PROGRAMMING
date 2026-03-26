@@ -1,0 +1,3 @@
+/mnt/d/tugas1Sekuro/tugas1/src/cmake/build/CMakeFiles/mcu_controller.dir
+/mnt/d/tugas1Sekuro/tugas1/src/cmake/build/CMakeFiles/edit_cache.dir
+/mnt/d/tugas1Sekuro/tugas1/src/cmake/build/CMakeFiles/rebuild_cache.dir
